@@ -1,0 +1,71 @@
+[33mcommit ad561dfe7c8abc87909c282b31974a0851ac35d4[m[33m ([m[1;36mHEAD -> [m[1;32mF2[m[33m)[m
+Author: akash <akashpawar040@gmail.com>
+Date:   Thu Jun 29 18:56:28 2023 +0530
+
+    ls
+
+[33mcommit b76c7f2ba71db085093ebede83cd0ff21399f9e9[m
+Author: akash <akashpawar040@gmail.com>
+Date:   Thu Jun 29 18:55:56 2023 +0530
+
+    tyre
+
+[33mcommit 531db237db1adfd722aa523fd716280ddbb30a7b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/F2[m[33m, [m[1;32mmain[m[33m)[m
+Author: akash <akashpawar040@gmail.com>
+Date:   Thu Jun 29 18:48:04 2023 +0530
+
+    abc
+
+[33mcommit ae7abb7804c5da0bf22fbd232211c7fca6f1357b[m
+Author: Akash Pawar <133162134+dna07@users.noreply.github.com>
+Date:   Fri Jun 9 10:27:46 2023 +0000
+
+    Multiple depends
+    
+    Job4 Depends on Job2 and Job3
+
+[33mcommit 5824349ca86cbfe8a04e97ca132f4f13e55495b9[m
+Author: Akash Pawar <133162134+dna07@users.noreply.github.com>
+Date:   Fri Jun 9 10:25:59 2023 +0000
+
+    Jobs : Using Depends on with Jobs
+
+[33mcommit eda15d20efcec56cde9290b2998a4f7aa125f51a[m
+Author: Akash Pawar <133162134+dna07@users.noreply.github.com>
+Date:   Fri Jun 9 10:24:23 2023 +0000
+
+    Jobs are running parallel
+    
+    Job 1 and 1 are running different agents (Agents are virtual servers)
+
+[33mcommit dad0b67139378eb350c24a636b3c059a5c408c79[m
+Author: Akash Pawar <133162134+dna07@users.noreply.github.com>
+Date:   Fri Jun 9 10:22:54 2023 +0000
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 7efc5cae447532870429e4f2601f20cbb18c2bc9[m
+Author: Akash Pawar <133162134+dna07@users.noreply.github.com>
+Date:   Sun May 28 15:23:23 2023 +0530
+
+    Create Hamilton
+
+[33mcommit 8c095dd76dc09a5ee88bbf910daad5eaf7b879d3[m
+Author: akash <akashpawar040@gmail.com>
+Date:   Sun May 28 15:22:32 2023 +0530
+
+    sed
+
+[33mcommit a740f4ef47fc83e7c357395c0505636b81e0d864[m
+Author: Akash Pawar <133162134+dna07@users.noreply.github.com>
+Date:   Sun May 28 15:20:42 2023 +0530
+
+    Create Leclerc
+
+[33mcommit c048f4568d73a8b63b4f86b1dd19bd1587f0d57f[m
+Author: Akash Pawar <133162134+dna07@users.noreply.github.com>
+Date:   Sun May 28 15:18:55 2023 +0530
+
+    Initial commit
